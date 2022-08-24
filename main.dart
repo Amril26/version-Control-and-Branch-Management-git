@@ -3,4 +3,5 @@ void main(){
   print('bug fixed application 1');
   print('bug fixed application 1.1');
   print('feature login');
+  print('feature register');
 }
